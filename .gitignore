@@ -1,0 +1,4 @@
+*.log
+.idea
+src/.idea
+docker/https-portal/cert
